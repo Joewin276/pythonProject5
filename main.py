@@ -1,2 +1,2 @@
-x = "Michael"
-print("Nama Dia Adalah "+x)
+name = input("Masukan Nama : ")
+print("Nama Anda Adalah "+name)
